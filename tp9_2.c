@@ -8,6 +8,7 @@ int main(void){
 	int*p2=&numero[1];
 	int result = is_capicua(p1, p2, 0);
 	printf("%d\n", result);
+	printf("Hola mundo hago un cambio sencillo de prueba");
 	return 0;
 }
 
